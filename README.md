@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub-Mark-Dark](https://github.com/tysed1/tysed1/blob/main/github%20dark.gif#gh-dark-mode-only)![GitHub-Mark-Light](https://github.com/tysed1/tysed1/blob/main/github%20light.gif#gh-light-mode-only)<br>
+  ![Dark](https://github.com/tysed1/tysed1/blob/main/github-dark.gif#gh-dark-mode-only)![Light](https://github.com/tysed1/tysed1/blob/main/github-light.gif#gh-light-mode-only)<br>
   ![](https://visitor-badge.laobi.icu/badge?page_id=tysed1.tysed1) ![](https://img.shields.io/github/followers/tysed1)
   <br><a href="https://discord.com/users/318419802974715905"><img src="https://img.shields.io/badge/Discord-5865F2"></a> <a href="https://twitter.com/Tysed1"><img src="https://img.shields.io/badge/Twitter-1DA1F2"></a> <a href="https://www.youtube.com/channel/UCO8iJqbEP1gRKkZKewYXkGg"><img src="https://img.shields.io/badge/Youtube-FF0000"></a>
 
